@@ -1,0 +1,23 @@
+html {
+    font-size: 120%;
+    background-color: rgba(172, 172, 172, 0.781);
+    font-family: verdana;
+}
+
+article{
+    float: right;
+    width: 70%;
+}
+
+img {
+    float:left;
+    width: 350px;
+    height: auto;
+}
+
+footer{
+    position: absolute;
+    bottom: 5px;
+    text-align: center;
+    width: 250px;
+}
